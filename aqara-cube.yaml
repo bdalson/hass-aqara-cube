@@ -9,7 +9,7 @@ blueprint:
       selector:
         device:
           integration: zha
-          manufacturer: LUMI
+          model: lumi.sensor_cube.aqgl01
     flip_90:
       name: Flip 90 degrees
       description:
